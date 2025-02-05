@@ -23,7 +23,7 @@ LinguaSynth is an advanced Natural Language Processing (NLP) chatbot developed u
 
 Clone the repository:
 
-git clone https://github.com/Satyarth-2003/LinguaSynth.git
+git clone https://github.com/1shttps/LinguaSynth
 
 Follow the provided documentation for setting up the backend and frontend components, as well as configuring Dialogflow.
 
